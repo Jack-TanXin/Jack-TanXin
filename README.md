@@ -6,7 +6,9 @@
 
 但是我相信对于本科生的数学建模来讲，这些代码大约是足够了
 
-我在学习的过程中使用的是 Jupyter Notebook ，因为这是一个极其适合数据科学的编辑器
+我在学习的过程中使用的是 Jupyter Notebook ，因为这是一个极其适合数据科学的编辑器，配置教程如下：  
+
+https://mp.csdn.net/mp_blog/creation/editor/126555528
 
 我的文件仓库分别是：
 
