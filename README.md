@@ -1,6 +1,6 @@
 # 您好，欢迎来到猩猩的 github 仓库
 
-这里的所有代码均由 Python 及其库实现，所有仓库几乎围绕着机器学习、数据分析展开
+这里的所有代码均由 Python 及其库实现，所有仓库几乎围绕着机器学习、数据分析、数学建模展开
 
 我一直很用心地提高自己的技术，但很遗憾自己只是个初学者，不能写出很高效的代码
 
@@ -10,14 +10,22 @@
 
 https://mp.csdn.net/mp_blog/creation/editor/126555528
 
-我的文件仓库分别是：
+下面为大家介绍一下我的 github 仓库：
 
-1、Dataset————这里几乎存放了实现其他代码的所有数据集
+# 1、Dataset————这里几乎存放了实现其他代码的所有数据集
+https://github.com/Jack-TanXin/Dataset
 
-2、Machine Learning————机器学习仓库，里面放了四个ipynb文件，分别对应机器学习最传统的四种模型：分类、回归、降维、聚类
+# 2、Machine Learning————机器学习仓库，里面放了四个ipynb文件，分别对应机器学习最传统的四种模型：分类、回归、降维、聚类
+https://github.com/Jack-TanXin/Machine-Learning
 
-我把很多好用的算法放在了项目中方便使用 集成voting 选出针对数据集最好用的算法，并且整理了评价模型的指标/方法
+# 3、Evaluate Tools————数学建模常常还需要会使用一些综合评价算法和优化算法
+https://github.com/Jack-TanXin/Evaluate-Tools
 
-3、Evaluate Tools————数学建模不是只靠机器学习就可以解决的，常常还需要会使用一些综合评价算法和优化算法，这里面收集了一些综合评价算法
+# 4、Notebook————这里是我学习机器学习过程中积累的一些笔记
+https://github.com/Jack-TanXin/Notebook
 
-他们各司其职，都是千里马，然而能否做出高端的结果还需要技术高深的伯乐
+# 5、Optimize————数学建模中的优化问题往往是永不过时的热点
+https://github.com/Jack-TanXin/Optimize
+
+# 6、ML-Homework-30-Days————30天速成机器学习（应试）
+https://github.com/Jack-TanXin/ML-Homework-30-Days
