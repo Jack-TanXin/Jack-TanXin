@@ -15,17 +15,11 @@ https://mp.csdn.net/mp_blog/creation/editor/126555528
 # 1、Dataset——这里几乎存放了实现其他代码的所有数据集
 https://github.com/Jack-TanXin/Dataset
 
-# 2、Machine Learning——机器学习仓库，里面放了四个ipynb文件：分类、回归、降维、聚类
+# 2、Machine Learning——机器学习仓库
 https://github.com/Jack-TanXin/Machine-Learning
 
 # 3、Evaluate Tools——数学建模中的评价算法
 https://github.com/Jack-TanXin/Evaluate-Tools
 
-# 4、Notebook——机器学习过程中积累的一些笔记
-https://github.com/Jack-TanXin/Notebook
-
-# 5、Optimize——数学建模中的优化问题
+# 4、Optimize——数学建模中的优化问题
 https://github.com/Jack-TanXin/Optimize
-
-# 6、Homework-30-Days——30天速成数学建模
-https://github.com/Jack-TanXin/Homework-30-days
