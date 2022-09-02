@@ -12,20 +12,20 @@ https://mp.csdn.net/mp_blog/creation/editor/126555528
 
 下面为大家介绍一下我的 github 仓库：
 
-# 1、Dataset————这里几乎存放了实现其他代码的所有数据集
+# 1、Dataset——这里几乎存放了实现其他代码的所有数据集
 https://github.com/Jack-TanXin/Dataset
 
-# 2、Machine Learning————机器学习仓库，里面放了四个ipynb文件，分别对应机器学习最传统的四种模型：分类、回归、降维、聚类
+# 2、Machine Learning——机器学习仓库，里面放了四个ipynb文件：分类、回归、降维、聚类
 https://github.com/Jack-TanXin/Machine-Learning
 
-# 3、Evaluate Tools————数学建模常常还需要会使用一些综合评价算法和优化算法
+# 3、Evaluate Tools——数学建模中的评价算法
 https://github.com/Jack-TanXin/Evaluate-Tools
 
-# 4、Notebook————这里是我学习机器学习过程中积累的一些笔记
+# 4、Notebook——机器学习过程中积累的一些笔记
 https://github.com/Jack-TanXin/Notebook
 
-# 5、Optimize————数学建模中的优化问题往往是永不过时的热点
+# 5、Optimize——数学建模中的优化问题
 https://github.com/Jack-TanXin/Optimize
 
-# 6、ML-Homework-30-Days————30天速成机器学习（应试）
+# 6、ML-Homework-30-Days——30天速成机器学习（应试）
 https://github.com/Jack-TanXin/ML-Homework-30-Days
