@@ -27,5 +27,5 @@ https://github.com/Jack-TanXin/Notebook
 # 5、Optimize——数学建模中的优化问题
 https://github.com/Jack-TanXin/Optimize
 
-# 6、ML-Homework-30-Days——30天速成机器学习（应试）
+# 6、ML-Homework-30-Days——30天速成机器学习
 https://github.com/Jack-TanXin/ML-Homework-30-Days
