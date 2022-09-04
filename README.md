@@ -15,7 +15,7 @@ https://mp.csdn.net/mp_blog/creation/editor/126555528
 # 1、Dataset——这里几乎存放了实现其他代码的所有数据集
 https://github.com/Jack-TanXin/Dataset
 
-# 2、Machine Learning——机器学习笔记仓库
+# 2、Machine Learning——数学建模中的机器学习
 https://github.com/Jack-TanXin/Machine-Learning
 
 # 3、Evaluate Tools——数学建模中的评价算法
