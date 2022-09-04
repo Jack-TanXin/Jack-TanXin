@@ -10,7 +10,7 @@
 
 https://mp.csdn.net/mp_blog/creation/editor/126555528
 
-下面为大家介绍一下我的 github 仓库：
+下面为大家介绍一下我的 Github 仓库：
 
 # 1、Dataset——这里几乎存放了实现其他代码的所有数据集
 https://github.com/Jack-TanXin/Dataset
