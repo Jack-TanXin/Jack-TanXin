@@ -10,9 +10,7 @@
 
 包括暂时不展示的仓库：Kaggle 竞赛仓库，深度学习仓库
 
-我在学习的过程中使用的是 Jupyter Notebook ，因为这是一个极其适合数据科学的编辑器，配置教程如下：  
-
-https://mp.csdn.net/mp_blog/creation/editor/126555528
+我在学习的过程中使用的是 Jupyter Notebook ，因为这是一个极其适合数据科学的编辑器，配置教程已附
 
 下面为大家介绍一下我的 Github 仓库：
 
