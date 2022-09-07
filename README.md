@@ -11,8 +11,8 @@
 
 北太天元的安装包可以在我分享的链接获取，我会定期更新保证分享的是最新的稳定版（我就不分享尝鲜版了不够稳定），也希望为推进北太天元贡献自己一点微薄的力量
 
-链接：https://pan.baidu.com/s/18dR3Y5CLRwmrIhILsHY-5A 
-提取码：1234 
+链接：https://pan.baidu.com/s/18dR3Y5CLRwmrIhILsHY-5A  
+提取码：1234   
 --来自百度网盘超级会员V1的分享
 
 下面为大家介绍一下我的 Github 仓库：
