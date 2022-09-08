@@ -7,14 +7,7 @@
 
 所以我也在学习并在过程中不断改进之前的代码
 
-在下面介绍的几个仓库中，我主要使用 Python 实现，综合评价仓库使用 Baltamatic 实现
-
-### 北太天元安装包（不定期更新）
-北太天元的安装包可以在我分享的链接获取，我会定期更新保证分享的是最新的稳定版（我就不分享尝鲜版了不够稳定），也希望为推进北太天元贡献自己一点微薄的力量  
-
-链接：https://pan.baidu.com/s/18dR3Y5CLRwmrIhILsHY-5A  
-提取码：1234   
---来自百度网盘超级会员V1的分享
+在下面介绍的几个仓库中，我主要使用 Python 实现，使用的是 Jupyter Notebook ，这会给大家带来一定的不方便，但其实做数据题用 Jupyter 绝对比 Pycharm 合适的，推荐大家自己安装一个，很香！！！
 
 下面为大家介绍一下我的 Github 仓库：
 
@@ -37,7 +30,7 @@ https://github.com/Jack-TanXin/Machine-Learning
 ## 3、Evaluate Tools
 
 ### 仓库简介
-数学建模中的经常出现综合评价问题，此仓库使用 Baltamatica 实现，支持国产，支持北太天元！！！
+数学建模中的经常出现综合评价问题
 
 ### 仓库链接
 https://github.com/Jack-TanXin/Evaluate-Tools
