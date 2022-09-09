@@ -35,7 +35,7 @@
 ### 仓库链接
 >https://github.com/Jack-TanXin/Evaluate-Tools
 
-## 4、Optimize——数学建模中的优化问题
+## 4、Optimize
 
 ### 仓库简介
 优化问题是数学建模中出现的最多的题型，说实话我也不是很擅长，但是Python里面有很多很好的库让我也能勉强地处理优化问题，比如 Scipy、Sklearn-opt ，优化问题是很考验建模手的，小心！！！
