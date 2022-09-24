@@ -37,4 +37,10 @@
 仓库地址：
 >https://github.com/Jack-TanXin/Machine-Learning-Project
 
+---
+## **蓝桥杯习题汇集与解答**
 
+蓝桥杯是一个很重要、含金量很高且很好获奖的比赛，好好学拿个省奖肯定是没有问题的。
+
+仓库地址：
+>https://github.com/Jack-TanXin/Blue-Bridge-Cup
