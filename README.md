@@ -9,7 +9,7 @@
 ## **多属性决策与优化**
 
 仓库地址：
->https://github.com/Jack-TanXin/Optimize
+>https://github.com/Jack-TanXin/evaluation
 
 ---
 
