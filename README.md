@@ -16,7 +16,7 @@
 ## **机器学习基础**
 
 仓库地址：
->https://github.com/Jack-TanXin/Machine-Learning
+>https://github.com/Jack-TanXin/machine-learning
 
 ---
 
