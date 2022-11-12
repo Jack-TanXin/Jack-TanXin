@@ -4,30 +4,35 @@
 
 >1792733991@qq.com
 
----
+
 
 ## **多属性决策与优化**
 
 仓库地址：
 >https://github.com/Jack-TanXin/evaluation
 
----
+
 
 ## **机器学习基础**
 
 仓库地址：
 >https://github.com/Jack-TanXin/machine-learning
 
----
+
 
 ## **计算机视觉项目练手**
 
 ### 1、图像分类：源于kaggle数据集
 
-仓库地址：
->
-
 ### 2、目标检测：源于kaggle数据集
+
+
+## **没事造的轮子**
+
+仓库地址：
+>https://github.com/Jack-TanXin/wheel
+
+
 
 
 
