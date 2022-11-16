@@ -22,6 +22,11 @@
 
 ---
 
+## **国赛论文LaTeX源代码及其PDF**
+
+仓库地址
+>https://github.com/Jack-TanXin/Example-of-CUMCM
+
 
 ## **计算机视觉项目练手**
 
