@@ -18,7 +18,7 @@
 ## **机器学习基础**
 
 仓库地址：
->https://github.com/Jack-TanXin/machine-learning
+>https://github.com/Jack-TanXin/Maching-Learning
 
 ---
 
@@ -35,11 +35,6 @@
 ### 目标检测：源于kaggle数据集
 
 ---
-
-## **没事造的轮子**
-
-仓库地址：
->https://github.com/Jack-TanXin/wheel
 
 
 ---
